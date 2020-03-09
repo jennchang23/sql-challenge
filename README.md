@@ -19,6 +19,4 @@ File name: EmployeeSQL/EmployeeSQL_TableSchemas.sql
 File name: EmployeeSQL/EmployeeSQL_Queries.sql
 
 Assumptions made:
-
->>>>>>> 2c09f175213eb3422c6232b43c1531ae7073847f
 - For question 3, I assumed that the manager's start date & end date was the start date and to date from "dept_manager.csv".
