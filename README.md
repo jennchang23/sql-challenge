@@ -8,7 +8,7 @@ Assignment Submission
 
 #### Data Modeling - Entity Relationship Diagram (ERD)
 
-![EmployeeSQL_ERD.png](EmployeeSQL_ERD.png)
+![EmployeeSQL_ERD.png](EmployeeSQL_ERD.PNG)
 
 #### Data Engineering
 
