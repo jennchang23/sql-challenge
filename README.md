@@ -20,3 +20,7 @@ File name: EmployeeSQL/EmployeeSQL_Queries.sql
 
 Assumptions made:
 - For question 3, I assumed that the manager's start date & end date was the start date and to date from "dept_manager.csv".
+
+#### Bonus
+
+File name: EmployeeSQL/Bonus/EmployeeSQL_Bonus.ipynb
